@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap');
 
 body{
-background-image:url(/images/bg.jpg);
+background-image:url(./images/bg.jpg);
 background-position: center;
 background-attachment: fixed;
 background-repeat: no-repeat;
@@ -37,7 +37,7 @@ border: 1px solid #dcdde1;
 .card-head{
 height: 140px;
 border-radius: 10px 10px 0px 0px;
-background-image: url(/images/bg-pattern-card.svg);
+background-image: url(./images/bg-pattern-card.svg);
 }
 
 .imgCard{
